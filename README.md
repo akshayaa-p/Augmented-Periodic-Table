@@ -1,6 +1,8 @@
 # Augmented-Periodic-Table
 A chemistry based AR Application that induces effective learning of periodic table elements
 
+<a href="https://youtu.be/PIOvL6rHsHs">Watch Demo</a>
+
 <br>
 <br>
 
