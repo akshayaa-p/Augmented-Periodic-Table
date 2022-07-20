@@ -4,7 +4,9 @@ A chemistry based AR Application that induces effective learning of periodic tab
 <br>
 <br>
 
-![Main Menu](https://user-images.githubusercontent.com/47331096/180031017-4c4ee192-0812-434e-b4fd-7471c2a22519.jpg)
+
+
+<img src="https://user-images.githubusercontent.com/47331096/180031017-4c4ee192-0812-434e-b4fd-7471c2a22519.jpg" width="100">
 
 ![Camera Interface](https://user-images.githubusercontent.com/47331096/180031205-c6e645b9-4de2-4fbe-a71b-e3556d6f9997.jpg)
 ![description](https://user-images.githubusercontent.com/47331096/180031243-f53d9b30-16d9-4202-ac8c-71cd8f3373fe.jpg)
